@@ -1,4 +1,4 @@
 from microbit import *
 
 
-display.scroll("Hello, MicroPython Tutorials!")
+display.scroll("Youre gay")
